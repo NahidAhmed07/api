@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <style>
+    body{
+      
+    }
+
+    .circle-parnet{
+        background: #222222;
+        width: 40%;
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        padding: 40px;
+        gap: 30px;
+        border-radius: 10px;
+        color: white;
+
+    }
+    .circle{
+      width: 110px;
+      height: 110px;
+      background: #3FACE4;
+      border-radius: 100px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      color: white;
+      transform: rotate(-30deg);
+      animation: circle-rotate 1s ease infinite;
+    }
+
+    .circle-outline{
+      width: 160px;
+      height: 160px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      border-radius: 100%;
+      border: 4px solid white;
+      border-left-color: transparent;
+      transform: rotate(30deg);
+      animation: circle-back-rotate 1s ease infinite;
+
+    }
+    .circle h2{
+      font-size: 25px;
+      font-weight: 200;
+    }
+
+    @keyframes circle-rotate {
+      to{
+        transform: rotate(0deg);
+      }
+      from{
+        transform: rotate(360deg);
+      }
+    }
+    @keyframes circle-back-rotate {
+      to{
+        transform: rotate(360deg);
+      }
+      from{
+        transform: rotate(0deg);
+      }
+    }
+
+  </style>
+</head>
+<body>
+
+  <div class="circle-parnet">
+    <div>
+      <div class="circle-outline">
+      <div class="circle">
+        <h2>1.5K</h2>
+      </div>
+    </div>
+    <h2>Happy Client</h2>
+    </div>
+
+  <div class="circle-outline">
+    <div class="circle">
+      <h2>10</h2>
+    </div>
+  </div>
+  <div class="circle-outline">
+    <div class="circle">
+      <h2>250</h2>
+    </div>
+  </div>
+  
+  <div class="circle-outline">
+    <div class="circle">
+      <h2>369</h2>
+    </div>
+  </div>
+
+  
+  
+  
+  
+    
+  </div>
+
+
+  
+
+
+ <!-- <script src="./api.js"></script> -->
+</body>
+</html>
