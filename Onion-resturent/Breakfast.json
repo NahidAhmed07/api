@@ -13,7 +13,7 @@
     "details": "How we aream about our future",
     "price": "9.99",
     "id": "N1020D27",
-    "cat": "breakfast"
+    "cat": "Breakfast"
   },
   {
     "img": "https://i.ibb.co/4VvM5Vb/breakfast3.png",
@@ -21,7 +21,7 @@
     "details": "How we aream about our future",
     "price": "10.99",
     "id": "N1020D28",
-    "cat": "breakfast"
+    "cat": "Breakfast"
   },
   {
     "img": "https://i.ibb.co/Y2PSBgB/breakfast4.png",
@@ -29,7 +29,7 @@
     "details": "How we aream about our future",
     "price": "8.99",
     "id": "N1020D29",
-    "cat": "breakfast"
+    "cat": "Breakfast"
   },
   {
     "img": "https://i.ibb.co/bJfJhxt/breakfast5.png",
@@ -37,7 +37,7 @@
     "details": "How we aream about our future",
     "price": "19.99",
     "id": "N1020D30",
-    "cat": "breakfast"
+    "cat": "Breakfast"
   },
   {
     "img": "https://i.ibb.co/5YrKWBt/breakfast6.png",
@@ -45,6 +45,6 @@
     "details": "How we aream about our future",
     "price": "12.55",
     "id": "N1020D31",
-    "cat": "breakfast"
+    "cat": "Breakfast"
   }
 ]
