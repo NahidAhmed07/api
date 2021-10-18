@@ -40,5 +40,20 @@
     "description": "Adaline was born and raised in Los Angeles, California. He graduated from the University...",
     "post": "Traumatology",
     "id": "HD4016"
+  },
+  {
+    "img": "http://demo2.themewarrior.com/hospitalplus/wp-content/uploads/sites/22/2016/04/Dr-Kathirnia-400x400.jpg",
+    "name": "Dr. Kathryn Wood",
+    "description": "Kathryn was born and raised in Indonesia, North Way Indonesia He graduated from the University...",
+    "post": "Pulmonary",
+    "id": "HD4017"
+  },
+
+  {
+    "img": "http://demo2.themewarrior.com/hospitalplus/wp-content/uploads/sites/22/2015/02/Depositphotos_35019551_original-400x400.jpg",
+    "name": "Dr. Janne Wilson",
+    "description": "Aceline was born and raised in Los Angeles, California. He graduated from the University...",
+    "post": "Urology",
+    "id": "HD4018"
   }
 ]
